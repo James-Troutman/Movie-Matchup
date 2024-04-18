@@ -4,7 +4,7 @@ An application allowing users to create a profile to save movie genre preference
 ​
 ## Project Background
 ​
-This was a team project completed as our final capstone at Tech Elevator.  We created  a database to store user info, movies, reviews, and genres.  The backend is written in Java, utilizing JdbcTemplate to connect to our database.  We consumed the TMDB API and utilized for our admin access/movie data.  The front-end is written in Javascript, HTML, and CSS.
+This was a team project completed as our final capstone at Tech Elevator.  We created  a database to store user info, movies, reviews, and genres.  The backend is written in Java, utilizing JdbcTemplate to connect to our database.  We consumed the TMDB API for our admin access/movie data.  The front-end is written in Javascript, HTML, and CSS.
 ​
 ## Screenshots
 
